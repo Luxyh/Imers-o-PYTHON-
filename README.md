@@ -18,3 +18,20 @@ Durante a Imersão Python: Do Excel à Análise de Dados da Alura, foi visto com
 •	Gerar tabelas e gráficos com base nos dados analisados;
 
 •	Utilizar o Pandas para a manipulação de dados.
+
+### **Aula 3**
+
+• Transformar a planilha de ações com funções do Pandas;
+
+• Construir gráficos com a biblioteca Plotly Express;
+
+### **Aula 4**
+
+• Criação de gráficos de velas;
+
+• Utilizando Plotly para gráficos interativos.
+
+### **Aula 5**
+
+• Introdução ao Machine Learning;
+
